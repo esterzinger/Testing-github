@@ -1,3 +1,7 @@
 Hello to everyone and to renana
-shalom
+We working with git now
+<<<<<<< .mine
 gggg
+=======
+
+>>>>>>> .theirs
